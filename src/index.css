@@ -1,3 +1,122 @@
 /* @tailwind base;
 @tailwind components;
 @tailwind utilities; */
+
+.toggle{
+width: 90px;
+height: 43px;
+background: #ccc;
+border-radius: 25px;
+cursor: pointer;
+padding: 5px;
+
+
+}
+.bg{
+    background-color: rgb(28, 252, 8);
+}
+.on{
+    background-color: rgb(28, 252, 8);
+    transform: translatex(50px);
+}
+.off{
+    background-color: rgb(255, 0, 0);
+    transform: translatex(0px);
+}
+.state{
+    margin: 0px 10px;
+}
+.switch{
+    width: 40px;
+    aspect-ratio: 1;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    transition: transform 0.5s;
+}
+
+.input{
+    padding: 10px;
+    font-size: 20px;
+    border-right: none;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    outline: none;
+    width: 70%;
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: #ccc ;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.button{
+    padding: 10px;
+    font-size: 20px;
+    position: absolute;
+    border: none;
+
+    right: 0;
+    width: 30%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: aqua;
+    cursor: pointer;
+}
+.button:hover{
+    background: #38db2a;
+}
+.btnclass{
+    position: relative;
+}
+.btn1{
+    background-color: #38db2a;
+    padding: 3px 5px;
+    font-size: 20px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 50px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.btn2{
+    background-color: #eb0707;
+    padding: 3px 5px;
+    cursor: pointer;
+    font-size: 20px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    border-radius: 20px;
+}
+.li{
+    background: #ffffff;
+    width: 400px;
+    display: flex;
+    
+    margin-left: 0px;
+    padding: 10px;
+margin-top: 10px;
+position: relative;
+border-radius: 20px;
+
+}
+.desplay{
+margin-top: 20px;
+
+}

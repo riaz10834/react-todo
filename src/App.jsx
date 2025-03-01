@@ -3,8 +3,14 @@ import "./components/css/Netflix.module.css";
 import Events from "./components/Events";
 import PassEvents from "./components/PassEvents";
 import UseState from "./components/useState";
-import StateWorks, { Sibling, User } from "./components/StateWorks";
+import StateWorks, { Sibling } from "./components/StateWorks";
 import Passingprops from "./components/passingprops";
+import LiftingState from "./components/LiftingState";
+import Toogle from "./components/Toogle";
+import Icons from "./components/Icons";
+import { Derived } from "./components/DerivedState";
+import Todo from "./components/Todo";
+
 // import "../src/index.css";
 export default function App() {
   return (
@@ -24,9 +30,14 @@ export default function App() {
       {/* <Newcomponenet /> */}
       {/* <Passingprops /> */}
       {/* <UseState /> */}
-      <StateWorks />
+      {/* <StateWorks />
       <Sibling />
-      <User />
+      <User /> */}
+      {/* <LiftingState /> */}
+      {/* <Toogle /> */}
+      {/* <Derived /> */}
+      <Todo />
+      {/* <Icons /> */}
     </>
   );
 }
