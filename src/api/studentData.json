@@ -1,0 +1,33 @@
+[
+    {
+    "name" : "Amir khan",
+    "classs" : 16,
+    "ID" : 10,
+    "pic" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aamir_Khan_in_2014_%28cropped%29.jpg/800px-Aamir_Khan_in_2014_%28cropped%29.jpg",
+    "link" :"https://www.google.com/search?q=amirkhan&oq=amir&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAuGIAEMgwIAhAuGEMYgAQYigUyDggDEC4YChhDGIAEGIoFMg4IBBAAGAoYQxiABBiKBTIOCAUQABgKGEMYgAQYigUyDggGEAAYChhDGIAEGIoFMgYIBxBFGD3SAQgxMDIwajBqN6gCCLACAfEFLRe7pp1ezNQ&sourceid=chrome&ie=UTF-8"
+    
+},
+{
+    "name" : "Salman khan",
+    "classs" : 12,
+    "ID" : 16,
+    "pic" : "https://m.media-amazon.com/images/M/MV5BMjMwNTIxODg0OF5BMl5BanBnXkFtZTgwODg2NzM0OTE@._V1_FMjpg_UX1000_.jpg",
+    "link":"https://www.google.com/search?q=salman+khan&oq=salm&gs_lcrp=EgZjaHJvbWUqDwgAECMYJxjjAhiABBiKBTIPCAAQIxgnGOMCGIAEGIoFMgwIARAuGCcYgAQYigUyBggCEEUYQDIGCAMQRRg5MgYIBBBFGDsyDwgFEAAYQxixAxiABBiKBTIPCAYQABhDGLEDGIAEGIoFMgYIBxBFGDzSAQc5NDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+},
+{
+    "name" : "Akshe kumar",
+    "classs" : 14,
+    "ID" : 4,
+    "pic" : "https://www.bollywoodhungama.com/wp-content/uploads/2024/12/Akshay_Kumar_Suffers_Eye_Injury.jpg",
+    "link":"https://www.google.com/search?gs_ssp=eJzj4tTP1TcwKik0KjJg9OJJzC7OSKxUyC7NTSwCAGBdCBI&q=akshay+kumar&oq=akshe&gs_lcrp=EgZjaHJvbWUqEAgBEC4YkQIYsQMYgAQYigUyCQgAEEUYORiABDIQCAEQLhiRAhixAxiABBiKBTIQCAIQABiRAhixAxiABBiKBTIJCAMQABgKGIAEMg8IBBAuGAoYgwEYsQMYgAQyCQgFEAAYChiABDIMCAYQABgKGLEDGIAEMgwIBxAAGAoYsQMYgAQyDwgIEAAYChiDARixAxiABNIBCDM1ODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+},
+{
+    "name" : "Sharo khan",
+    "classs" : 15,
+    "ID" : 11,
+    "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8y-yB6Z0GEkU4FCG3POdXyKL2qOtK9oe83A&s",
+    "link":"https://www.google.com/search?gs_ssp=eJzj4tTP1TcwrMowsjRg9OIrzkjMUCgqzc5QyM5IzAMAa1sIVg&q=shah+rukh+khan&oq=shah+r&gs_lcrp=EgZjaHJvbWUqDwgBEC4YQxixAxiABBiKBTISCAAQABhDGOMCGLEDGIAEGIoFMg8IARAuGEMYsQMYgAQYigUyDwgCEAAYQxixAxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBwgFEAAYgAQyDwgGEAAYQxixAxiABBiKBTIMCAcQABhDGIAEGIoFMgwICBAAGEMYgAQYigUyDAgJEAAYQxiABBiKBdIBCDM2MTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+}
+]
+
+

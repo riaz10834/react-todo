@@ -1,0 +1,29 @@
+:root{
+    --back:red;
+    --color:blue;
+  }
+  
+  .box{
+    background: #ccc;
+    width: 300px;
+    padding: 10px 10px;
+  
+    
+  }
+  .img{
+    width: 100%;
+    height: 200px;
+  }
+  .id1{
+    
+    background-color: aqua;
+   
+  }
+  .id2{
+    
+    background-color: brown;
+  }
+  .show{
+    text-decoration: none;
+    color: black;
+  }
