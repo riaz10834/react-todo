@@ -143,3 +143,15 @@ margin-top: 20px;
     align-items: center;
     gap: 10px;
 }
+.clearbtn{
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #b42020;
+    color: rgb(94, 255, 0);
+    cursor: pointer;
+}
+.clearbtn:hover{
+    background: #f80303;
+}

@@ -37,6 +37,10 @@ export default function Todo() {
     const updated = task.filter((remove) => remove !== value);
     setTask(updated);
   };
+
+  const handleclearbtn = () => {
+    setTask([]);
+  };
   return (
     <section className="main">
       <h1
@@ -87,6 +91,9 @@ export default function Todo() {
           </ul>
         </section>
       </section>
+      <button className="clearbtn" onClick={handleclearbtn}>
+        Clear All
+      </button>
     </section>
   );
 }
