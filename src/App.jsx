@@ -37,8 +37,8 @@ export default function App() {
       {/* <LiftingState /> */}
       {/* <Toogle /> */}
       {/* <Derived /> */}
-      {/* <Todo /> */}
-      <List />
+      <Todo />
+      {/* <List /> */}
       {/* <Icons /> */}
     </>
   );
