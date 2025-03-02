@@ -10,6 +10,7 @@ import Toogle from "./components/Toogle";
 import Icons from "./components/Icons";
 import { Derived } from "./components/DerivedState";
 import Todo from "./components/Todo";
+import List from "./components/List";
 
 // import "../src/index.css";
 export default function App() {
@@ -36,7 +37,8 @@ export default function App() {
       {/* <LiftingState /> */}
       {/* <Toogle /> */}
       {/* <Derived /> */}
-      <Todo />
+      {/* <Todo /> */}
+      <List />
       {/* <Icons /> */}
     </>
   );
